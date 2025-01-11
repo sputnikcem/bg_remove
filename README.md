@@ -1,2 +1,1 @@
-# bg_remove
-set of tools for bg removal
+her subfolder kendi docker image ini yaratir
